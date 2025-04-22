@@ -2,7 +2,7 @@
 
 export default function TermsAndConditions() {
   return (
-    <div className="max-w-4xl mx-auto px-4 py-16 text-[#0A2A43]">
+    <div className="max-w-4xl mx-auto px-4 py-16  bg-white">
       <h1 className="text-3xl md:text-4xl font-bold mb-6 text-center">Terms & Conditions</h1>
       <p className="text-base md:text-lg mb-4">
         These terms and conditions govern the use of our website and services. By engaging with HelixHub Communication, you agree to comply with the terms outlined below.
