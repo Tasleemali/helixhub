@@ -2,7 +2,7 @@
 
 export default function PrivacyPolicy() {
   return (
-    <div className="max-w-4xl mx-auto px-4 py-16 text-[#0A2A43]">
+    <div className="max-w-4xl mx-auto px-4 py-16 ">
       <h1 className="text-3xl md:text-4xl font-bold mb-6 text-center">Privacy Policy</h1>
       <p className="text-base md:text-lg mb-4">
         At HelixHub Communication, we are committed to protecting your privacy. This Privacy Policy outlines how we collect, use, and safeguard your personal data when you interact with our services.
